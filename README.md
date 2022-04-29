@@ -1,6 +1,6 @@
 # Simple application "Add post" with React, Redux, and Ant Design
 
-Watch deploy this [project](https://github.com/facebook/create-react-app).
+Watch deploy this [project](https://add-post-app.vercel.app/posts).
 
 ## Some instructions
 
